@@ -1,0 +1,16 @@
+{
+    "name": "backbone_ninjas",
+    "private": true,
+    "version": "0.0.0",
+    "description": "a Sails application",
+    "dependencies": {
+        "sails": "0.8.82"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "main": "app.js",
+    "repository": "",
+    "author": "",
+    "license": "MIT"
+}
